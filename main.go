@@ -9,13 +9,13 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Sparsh1401/car_listing_service/config"
-	"github.com/Sparsh1401/car_listing_service/controllers"
-	"github.com/Sparsh1401/car_listing_service/database"
-	"github.com/Sparsh1401/car_listing_service/middleware"
-	"github.com/Sparsh1401/car_listing_service/repository"
-	"github.com/Sparsh1401/car_listing_service/routes"
-	"github.com/Sparsh1401/car_listing_service/services"
+	"github.com/yourusername/car-listing-service/config"
+	"github.com/yourusername/car-listing-service/controllers"
+	"github.com/yourusername/car-listing-service/database"
+	"github.com/yourusername/car-listing-service/middleware"
+	"github.com/yourusername/car-listing-service/repository"
+	"github.com/yourusername/car-listing-service/routes"
+	"github.com/yourusername/car-listing-service/services"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/Sparsh1401/car_listing_service/controllers"
+	"github.com/yourusername/car-listing-service/controllers"
 	"github.com/gin-gonic/gin"
 )
 

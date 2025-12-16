@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Sparsh1401/car_listing_service/config"
-	"github.com/Sparsh1401/car_listing_service/models"
+	"github.com/yourusername/car-listing-service/config"
+	"github.com/yourusername/car-listing-service/models"
 	"github.com/chromedp/cdproto/network"
 	"github.com/chromedp/chromedp"
 )

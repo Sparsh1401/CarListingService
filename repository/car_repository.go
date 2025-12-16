@@ -3,7 +3,7 @@ package repository
 import (
 	"database/sql"
 
-	"github.com/Sparsh1401/car_listing_service/models"
+	"github.com/yourusername/car-listing-service/models"
 	"github.com/lib/pq"
 )
 

@@ -1,4 +1,4 @@
-module github.com/Sparsh1401/car_listing_service
+module github.com/yourusername/car-listing-service
 
 go 1.24.0
 

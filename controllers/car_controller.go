@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Sparsh1401/car_listing_service/models"
-	"github.com/Sparsh1401/car_listing_service/services"
+	"github.com/yourusername/car-listing-service/models"
+	"github.com/yourusername/car-listing-service/services"
 	"github.com/gin-gonic/gin"
 )
 
