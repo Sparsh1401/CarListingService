@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS cars (
+    id SERIAL PRIMARY KEY,
+    title TEXT NOT NULL,
+    price TEXT,
+    currency TEXT,
+    year TEXT,
+    mileage TEXT,
+    location TEXT,
+    link TEXT UNIQUE NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
